@@ -1,0 +1,22 @@
+{
+  "name": "tfjs-examples",
+  "version": "0.1.0",
+  "description": "TenserFlos.js Examples",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickbeerendonk/tfjs-examples.git"
+  },
+  "keywords": [
+    "TenserFlow"
+  ],
+  "author": "Rick Beerendonk",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/rickbeerendonk/tfjs-examples/issues"
+  },
+  "homepage": "https://github.com/rickbeerendonk/tfjs-examples#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.12.3"
+  }
+}
