@@ -22,10 +22,10 @@
     }
   },
   "scripts": {
-    "eslint": "eslint . --ext .js,.jsx --cache",
-    "eslint-fix": "eslint . --ext .js,.jsx --cache --fix",
-    "prettier": "prettier --list-different '**/*.{json,js,jsx,ts,tsx}'",
-    "prettier-fix": "prettier --write '**/*.{json,js,jsx,ts,tsx}'",
+    "eslint": "eslint . --ext .js,.html --cache",
+    "eslint-fix": "eslint . --ext .js,.html --cache --fix",
+    "prettier": "prettier --list-different '**/*.{json,js,html}'",
+    "prettier-fix": "prettier --write '**/*.{json,js,html}'",
     "validate": "npm run eslint && npm run prettier"
   },
   "dependencies": {
