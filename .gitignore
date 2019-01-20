@@ -6,6 +6,12 @@ node_modules/
 npm-debug.log
 
 #################
+## ESLint
+#################
+
+.eslintcache
+
+#################
 ## Other
 #################
 
