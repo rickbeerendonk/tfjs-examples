@@ -1,8 +1,10 @@
 # TenserFlow.js Examples
 
 
-# Licence
+## Licence
 
-Mozilla Public License Version 2.0
+European Union Public Licence version 1.2
 
-Copyright © 2018 Rick Beerendonk
+## Copyright
+
+Copyright © 2018-2019 Rick Beerendonk

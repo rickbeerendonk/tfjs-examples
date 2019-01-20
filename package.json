@@ -11,7 +11,7 @@
     "TenserFlow"
   ],
   "author": "Rick Beerendonk",
-  "license": "MPL-2.0",
+  "license": "EUPL-1.2",
   "bugs": {
     "url": "https://github.com/rickbeerendonk/tfjs-examples/issues"
   },
