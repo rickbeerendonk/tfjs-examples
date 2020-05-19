@@ -22,19 +22,19 @@
     }
   },
   "scripts": {
-    "eslint": "eslint . --ext .js,.html --cache",
-    "eslint-fix": "eslint . --ext .js,.html --cache --fix",
+    "eslint": "eslint --ext .js,.html --cache",
+    "eslint-fix": "eslint --ext .js,.html --cache --fix",
     "prettier": "prettier --list-different '**/*.{json,js,html}'",
     "prettier-fix": "prettier --write '**/*.{json,js,html}'",
     "validate": "npm run eslint && npm run prettier"
   },
   "dependencies": {
-    "@tensorflow/tfjs": "^1.4.0"
+    "@tensorflow/tfjs": "1.7.4"
   },
   "devDependencies": {
-    "eslint": "^6.7.2",
-    "eslint-plugin-html": "^6.0.0",
-    "husky": "^3.1.0",
-    "prettier": "^1.19.1"
+    "eslint": "7.0.0",
+    "eslint-plugin-html": "6.0.2",
+    "husky": "4.2.5",
+    "prettier": "2.0.5"
   }
 }
